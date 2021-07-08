@@ -1,0 +1,22 @@
+{
+  "name": "trankhacnam",
+  "description": "",
+  "main": "",
+  "authors": [
+    "tran khac nam <nam3061998@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/employeehai/onlaiwebbanhang",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "user_assets": "https://github.com/trankhacnam/asset_user.git"
+  }
+}
+
